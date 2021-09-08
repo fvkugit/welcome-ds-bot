@@ -1,0 +1,11 @@
+{
+  "TOKEN": "token here",
+  "WelcomeChannel": "🚪-»-puerta",
+  "WelcomeMessage": "» Todo bien [[user]]? Te doy la bienvenida a [[server]], gracias por unirte! Sos el miembro Nº[[members]] \n● Como bienvenida te otorgo tu carnet de identidad.\n● Por favor, te invito a leer las <#756581034031841321> para mantener un orden en el servidor.",
+  "WelcomeMessage2" : "```diff\n» Mira, realmente no hay reglas escritas, pero usa la cabeza.\n\n+ Respeta a los demás para que no surjan problemas entre los miembros.\n+ Se supone que si estas acá es porqué te invitaron.\n+ Como podrás ver cada canal tiene su uso, intenta respetar eso, no difundas contenido no acorde al canal que estas usando.\n\n» Si entendiste que las reglas reacciona al mensaje.```",
+  "AutoRole": true,
+  "AutoRoleName": "Del rincon",
+  "SetStatus":"la puerta del server",
+  "DM": true,
+  "DMMessage": ""
+}
